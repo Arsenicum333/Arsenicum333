@@ -9,3 +9,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Arsenicum333&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arseniy!
-I'm a final-year Computer Science bachelor's student interested in frontend development and UI/UX design.
+I'm a final-year undergraduate Computer Science student interested in web development and design.
 
-I enjoy building web interfaces and exploring how design and technology come together.
+I enjoy building web applications and exploring the intersection of functionality, usability, and visual design.
 
 ## 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -44,7 +44,7 @@ I enjoy building web applications and exploring the intersection of functionalit
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arsenicum333&theme=codeSTACKr&hide_border=false&border_color=21262d&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arsenicum333&theme=codeSTACKr&hide_border=false&border_color=21262d&include_all_commits=true&count_private=true&layout=compact&exclude_repo=MIP-Article,DBS-Tasks)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=Arsenicum333&theme=codeSTACKr&hide_border=false&border_color=21262d&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Arsenicum333&theme=codeSTACKr&hide_border=false&border=21262d)
 
